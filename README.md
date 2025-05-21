@@ -1,6 +1,6 @@
 📝 To-Do List App
 
-This is a simple To-Do List web application built using HTML, CSS, and JavaScript. It allows users to add, delete, and manage daily tasks directly in the browser. ((Still a work in progress, but it is operational))
+This is a simple To-Do List web application built using HTML, CSS, and JavaScript. It allows users to add, delete, and manage daily tasks directly in the browser.
 
 💡 Features:
 - Add new tasks using the input field and "Add" button
